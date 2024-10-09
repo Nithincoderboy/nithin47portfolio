@@ -81,7 +81,8 @@
             "email": "nithinofficial47@gmail.com",
             "emailAltText": "My email",
             "address": "1/37, Jaiskathi Avenue, Salaipalaiyam South, Avinashi, Tiruppur, Tamil Nadu - 641654",
-            "addressAltText": "My address"
+            "addressAltText": "My address",
+            "elementId": "Contact"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
