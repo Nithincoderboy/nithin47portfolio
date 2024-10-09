@@ -170,7 +170,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Web Developement
   - type: DividerSection
     styles:
       self:
