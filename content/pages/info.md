@@ -101,6 +101,7 @@ sections:
             label: Discord
             url: 'https://discord.com/'
             showIcon: true
+            iconPosition: right
         styles:
           self:
             textAlign: left
