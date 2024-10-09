@@ -105,7 +105,7 @@ sections:
         actions:
           - type: Link
             label: GMAIL
-            url: nithinofficial47@gmail.com
+            url: 'mailto:nithinofficial47@gmail.com'
             showIcon: true
             iconPosition: right
             icon: mail
