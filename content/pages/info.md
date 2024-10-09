@@ -13,12 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |
-      Passionate Web Developer with proven leadership skills in Web
-      development and a strong commitment to community engagement.
-      Experienced in open source projects and recognized for academic
-      excellence. Selected for Aspire Leadership Program(2024). Enthusiastic
-      engineering student and self motivated one.
+    text: >
+      Passionate ***Web Developer*** with proven leadership skills in Web
+      development and a strong commitment to community engagement. Experienced
+      in `open source projects` and recognized for academic excellence. 
+
+
+      Selected for ***Aspire Leadership Program(2024)***. 
+
+
+      ***Virtusa Engineering Excellence Scholarship Awardee(2023-2024).***
+
+
+      **Enthusiastic** engineering student and **self motivated** one.
     media:
       type: ImageBlock
       url: /images/about.jpg
