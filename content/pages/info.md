@@ -100,6 +100,7 @@ sections:
           - type: Link
             label: Discord
             url: 'https://discord.com/'
+            showIcon: true
         styles:
           self:
             textAlign: left
