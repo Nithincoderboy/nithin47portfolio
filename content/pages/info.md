@@ -108,6 +108,7 @@ sections:
             url: nithinofficial47@gmail.com
             showIcon: true
             iconPosition: right
+            icon: mail
         styles:
           self:
             textAlign: left
