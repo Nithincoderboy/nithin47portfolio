@@ -166,7 +166,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Python
       - type: Label
         label: C++
       - type: Label
