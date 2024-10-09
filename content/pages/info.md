@@ -233,18 +233,30 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2023 - Current**
 
-          * ba computer sciense at a semi fancy school
+          *   Bachelor of Engineering.
+          *   Electrical and Electronics
+               Engineering.
+               
+          *   CGPA: **7.7%.**
+          *   Active listener and excited to
+               learn new things.
+          *   College **Social Media
+               Coordinator.**
+          *   Expected Graduation by **2027**.
 
-          **2014**
+          **Completed Schooling by Mar 2023**
 
-          * react certificate somewhere
+          *   PMC(Computer Science)
+               Major.
+          *   Percentage **80.83%** Marks.
+          *   Overall **School Squadron
+               Leader**.
+          *   **
+              Young Scientist** Award.
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
