@@ -105,7 +105,7 @@ sections:
         actions:
           - type: Link
             label: GMAIL
-            url: 'https://discord.com/'
+            url: nithinofficial47@gmail.com
             showIcon: true
             iconPosition: right
         styles:
