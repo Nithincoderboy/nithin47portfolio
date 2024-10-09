@@ -28,7 +28,7 @@ sections:
       **Enthusiastic** engineering student and **self motivated** one.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/profile.jpg
       altText: Hero image
     styles:
       self:
