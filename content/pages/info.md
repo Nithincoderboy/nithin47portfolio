@@ -90,6 +90,7 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/'
+            showIcon: true
         styles:
           self:
             textAlign: left
