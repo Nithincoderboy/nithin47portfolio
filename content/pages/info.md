@@ -104,7 +104,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: ''
+            label: GeekforGeeks
             url: '"mailto:nithinofficial47@gmail.com"'
             showIcon: true
             iconPosition: right
