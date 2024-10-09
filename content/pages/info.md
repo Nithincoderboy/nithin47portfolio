@@ -91,6 +91,7 @@ sections:
             label: LinkedIn
             url: 'https://www.linkedin.com/'
             showIcon: true
+            icon: linkedin
         styles:
           self:
             textAlign: left
