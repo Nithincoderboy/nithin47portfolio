@@ -206,26 +206,23 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Aspire Leadership Program Intern
 
-          **2018-2021**
+          **May 2024 - Aug 2024**
 
-          * fullstack at this startup
+          *   Fullstack at this Open Source Development
 
-          **2015**
+          **Apr 2024 - June 2024**
 
-          * senior front-end at this place
+          *   Android Developer Inten
 
-          **2013**
+          **Apr 2024**
 
-          * intern developer at a big company
+          *   intern developer at Internpedia
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
