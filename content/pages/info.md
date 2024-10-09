@@ -108,7 +108,7 @@ sections:
             url: '"mailto:nithinofficial47@gmail.com"'
             showIcon: true
             iconPosition: right
-            icon: mail
+            icon: ''
         styles:
           self:
             textAlign: left
