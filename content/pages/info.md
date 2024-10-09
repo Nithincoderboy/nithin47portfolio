@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: |
+      Passionate Web Developer with proven leadership skills in Web
+      development and a strong commitment to community engagement.
+      Experienced in open source projects and recognized for academic
+      excellence. Selected for Aspire Leadership Program(2024). Enthusiastic
+      engineering student and self motivated one.
     media:
       type: ImageBlock
       url: /images/about.jpg
