@@ -76,6 +76,7 @@ sections:
             url: 'https://github.com/'
             showIcon: true
             icon: github
+            iconPosition: right
         styles:
           self:
             textAlign: left
