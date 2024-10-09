@@ -105,7 +105,7 @@ sections:
         actions:
           - type: Link
             label: GeeksforGeeks
-            url: '"mailto:nithinofficial47@gmail.com"'
+            url: 'https://www.geeksforgeeks.org/user/nithinofffc6a/'
             showIcon: true
             iconPosition: right
             icon: ''
