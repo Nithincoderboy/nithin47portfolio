@@ -104,7 +104,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: GMAIL
             url: 'https://discord.com/'
             showIcon: true
             iconPosition: right
