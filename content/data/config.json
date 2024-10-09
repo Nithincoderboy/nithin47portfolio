@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "ABOUT",
-                "url": "/info"
+                "url": "/info",
+                "icon": "apple"
             },
             {
                 "type": "Link",
