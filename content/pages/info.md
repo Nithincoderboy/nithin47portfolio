@@ -13,14 +13,22 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      Passionate ***Web Developer*** with proven leadership skills in Web
+      development and a strong commitment to community engagement. Experienced
+      in `open source projects` and recognized for academic excellence. 
+
+
+      Selected for ***Aspire Leadership Program(2024)***. 
+
+
+      ***Virtusa Engineering Excellence Scholarship Awardee(2023-2024).***
+
+
+      **Enthusiastic** engineering student and **self motivated** one.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/profile.jpg
       altText: Hero image
     styles:
       self:
@@ -58,65 +66,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -125,14 +74,14 @@ sections:
           - type: Link
             label: GitHub
             url: 'https://github.com/'
+            showIcon: true
+            icon: github
+            iconPosition: right
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -141,30 +90,30 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/'
+            showIcon: true
+            icon: linkedin
+            iconPosition: right
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            label: GeeksforGeeks
+            url: 'https://www.geeksforgeeks.org/user/nithinofffc6a/'
+            showIcon: true
+            iconPosition: right
+            icon: ''
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -207,7 +156,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: JAVA
       - type: Label
         label: React
       - type: Label
@@ -217,11 +166,11 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Python
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Web Developement
   - type: DividerSection
     styles:
       self:
@@ -239,7 +188,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      nithinofficial47\@gmail.com
   - type: DividerSection
     styles:
       self:
@@ -257,26 +206,23 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Aspire Leadership Program Intern
 
-          **2018-2021**
+          **May 2024 - Aug 2024**
 
-          * fullstack at this startup
+          *   Fullstack at this Open Source Development
 
-          **2015**
+          **Apr 2024 - June 2024**
 
-          * senior front-end at this place
+          *   Android Developer Inten
 
-          **2013**
+          **Apr 2024**
 
-          * intern developer at a big company
+          *   intern developer at Internpedia
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -287,18 +233,30 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2023 - Current**
 
-          * ba computer sciense at a semi fancy school
+          *   Bachelor of Engineering.
+          *   Electrical and Electronics
+               Engineering.
+               
+          *   CGPA: **7.7%.**
+          *   Active listener and excited to
+               learn new things.
+          *   College **Social Media
+               Coordinator.**
+          *   Expected Graduation by **2027**.
 
-          **2014**
+          **Completed Schooling by Mar 2023**
 
-          * react certificate somewhere
+          *   PMC(Computer Science)
+               Major.
+          *   Percentage **80.83%** Marks.
+          *   Overall **School Squadron
+               Leader**.
+          *   **
+              Young Scientist** Award.
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
@@ -347,7 +305,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: TO CONNECT
     colors: colors-f
     form:
       type: FormBlock
@@ -377,7 +335,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Ask any doubts with me
           isRequired: true
           width: full
           type: TextareaFormControl
@@ -386,7 +344,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Send\U0001F680"
       styles:
         submitLabel:
           textAlign: center

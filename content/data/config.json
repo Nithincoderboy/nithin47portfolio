@@ -5,13 +5,14 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "HOME",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "ABOUT",
+                "url": "/info",
+                "icon": ""
             },
             {
                 "type": "Link",
@@ -20,24 +21,24 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "RESUME",
                 "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/Nithincoderboy",
+                "icon": "github"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/nithin-k-81a55128b/",
+                "icon": "linkedin"
             }
         ],
         "styles": {
@@ -51,7 +52,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "ABOUT",
                 "url": "/info",
                 "altText": ""
             },
@@ -63,32 +64,36 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "RESUME",
+                "altText": "",
                 "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "title": "Contact Details",
+            "phoneNumber": "7448398216",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "nithinofficial47@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "address": "1/37, Jaiskathi Avenue, Salaipalaiyam South, Avinashi, Tiruppur, Tamil Nadu - 641654",
+            "addressAltText": "My address",
+            "elementId": "Contact"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
