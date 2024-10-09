@@ -92,6 +92,7 @@ sections:
             url: 'https://www.linkedin.com/'
             showIcon: true
             icon: linkedin
+            iconPosition: right
         styles:
           self:
             textAlign: left
